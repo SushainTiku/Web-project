@@ -1,0 +1,28 @@
+DOCTYPE! html>
+  <html>
+  <head>
+    <title>Sign up</title>
+  </head>
+  <style>
+  body {
+  background-color:lightblue;
+}
+
+h2 {
+  background-color:white;
+}
+
+  </style>
+  <body>
+    <h2>Sign up</h2>
+    <p>Name:</p>
+    <input type="name"><br>
+    <p>Password:</p>
+    <input type="password"><br>
+ <h3> <a href="https://codepen.io/sushaintiku/pen/eYMMPWd">Submit</h3>
+      <h3>Auto login</h3>
+      
+
+    
+    </body>
+  </html>
