@@ -3,6 +3,14 @@
   <head>
     <title>Home</title>
   </head>
+  <style>
+  body {
+  background-color:yellow;
+}
+
+li, h3, h1, h2 {
+  background-color:lightgreen;
+}</style>
   <body>
     <h1>Home</h1>
     <h2>Series</h2>
