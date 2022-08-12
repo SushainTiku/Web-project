@@ -3,6 +3,11 @@
   <head>
     <title>Ralph in the outside</title>
   </head>
+  <style>
+  body {
+  background-color: rgb(153, 99, 17);
+}
+  </style>
   <body>
     <h6>last updated- 3/8/2022</h6>
     
